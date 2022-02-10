@@ -1,0 +1,9 @@
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (1, 'บ้านหลังที่ 1', '20220208', 'รอการชำระเงิน');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (2, 'บ้านหลังที่ 2', '20220208', 'ชำระเงินแล้ว');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (3, 'บ้านหลังที่ 3', '20220209', 'ส่งสินค้าเรียบร้อย');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (4, 'บ้านหลังที่ 4', '20220210', 'กำลังจัดส่ง');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (5, 'บ้านหลังที่ 5', '20220210', 'ส่งสินค้าเรียบร้อย');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (6, 'บ้านหลังที่ 6', '20220211', 'รอการชำระเงิน');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (7, 'บ้านหลังที่ 7', '20220211', 'ส่งสินค้าเรียบร้อย');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (8, 'บ้านหลังที่ 8', '20220212', 'ชำระเงินแล้ว');
+INSERT INTO `orders`(`Id`, `Address`, `Date`, `OrderStatus`) VALUES (9, 'บ้านหลังที่ 9', '20220215', 'กำลังจัดส่ง');
